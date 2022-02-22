@@ -1,0 +1,63 @@
+body {
+
+    background: #000000; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cabecalho {
+    color: #FFFFFF;
+    font-size: 40px;
+    text-align: center;
+}
+
+.titulo {
+
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 30px;
+}
+
+.texto-centralizado {
+
+    text-align: center;
+}
+
+
+.encima {
+
+    background: #00FFFF;
+    height: 25vh;
+    width: 32vw;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    border-radius: 0.5em;
+}
+
+.embaixo {
+
+    background: #00FFFF;
+    height:25vh;
+    width: 32vw;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    border-radius: 0.5em;
+}
+
+.btn {
+    
+    background: #0000FF;
+    font-weight: bolder;
+    font-size: 14px;
+    margin-top: 2%;
+}
+
+h4 {
+
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+
